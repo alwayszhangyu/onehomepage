@@ -13,7 +13,7 @@ function loadScript() {
       const element = document.querySelector(".map");
       element.style.display = "block";
       var map = new AMap.Map("map-container", {
-        center: [116.397428, 39.90923],
+        center: [105.29629,27.2897],
         zoom: 10,
       });
     };
