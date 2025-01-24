@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.PAT_TOKEN }}  # 使用 PAT 进行检出
+          token: ${{ secrets.PAT_TOKEN }}
         
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -24,7 +24,7 @@ jobs:
         run: npm install
         
       - name: Run fetch script
-        run: node src/data/getPost.js
+        run: node src/data/getPost.js  # 更新了脚本路径
         env:
           BASE_URL: ${{ secrets.BASE_URL }}
           API_TOKEN: ${{ secrets.API_TOKEN }}
