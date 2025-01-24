@@ -53,7 +53,9 @@ async function fetchPosts() {
                     const postUrl = item.post.status.permalink;
                     const postTime = post.publishTime;
                     const categories = item.categories.map(category => category.spec.displayName);
-                    const formattedDate = new Date(postTime).toLocaleDateString();
+
+                    // 将时间格式修改为年月日
+                    const formattedDate = new Date(postTime).toISOString().split('T')[0].replace(/-/g, '/');
                     const fullPostUrl = `${baseDomain}${postUrl}`;
 
                     // 向“最新”分类中添加文章，直到达到最大数量
