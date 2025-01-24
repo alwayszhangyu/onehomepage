@@ -17,13 +17,6 @@ import App from "../components/app.astro";
     <meta property="og:description" content="RyuLion的个人名片👋" />
     <meta property="og:url" content="https://houxiongxiong.icu" />
     <meta property="og:image" content="icons/cover.png" />
-    <link
-      rel="preload"
-      href=`${Astro.site}fonts/MaoKenZhuYuanTi.ttf`
-      as="font"
-      type="font/ttf"
-      crossorigin
-    />
     <link rel="preload" href=`${Astro.site}icons/icons.png` as="image" type="image/png" />
     <link rel="shortcut icon" href=`${Astro.site}favicons/favicon.ico` />
     <link
@@ -47,16 +40,10 @@ import App from "../components/app.astro";
     <link rel="dns-prefetch" href="//idealclover.top" />
     <!-- TODO:这儿有点儿丑.. -->
     <style>
-      @font-face {
-        font-family: "MaokenZhuyuanTi";
-        src: url(https://image.idealclover.cn/projects/Homepage/fonts/MaoKenZhuYuanTi.ttf);
-        font-display: swap;
-      }
 
       body {
-        cursor: url(https://image.idealclover.cn/projects/Homepage/icons/cursor.ico),
+        cursor: url(https://www.houxiongxiong.icu/icons/cursor.ico),
           auto;
-        font-family: "MaokenZhuyuanTi";
       }
     </style>
   </head>
