@@ -1,18 +1,18 @@
 export default {
-  title: "idealclover",
-  desc: "Stay simple, stay naive.",
+  title: "RyuLion",
+  desc: "Love Little Rookie.",
   imgUrl: "https://cdn.idealclover.cn/Projects/homepage/icon.png",
-  location: "Beijing, China",
+  location: "Guizhou, China",
   titleCard: {
-    title: "翠翠 @idealclover",
-    desc: "产品经理/独立开发者/个人博主/Vocaloid",
-    url: "https://idealclover.top/about.html",
+    title: "琉·璃昂 @RyuLion",
+    desc: "精灵族/阿斯特莉亚·眷族/LV.6",
+    url: "https://baike.baidu.com/item/%E7%90%89%C2%B7%E7%92%83%E6%98%82/23735822",
     bgStyle:
       "bg-primary shadow-accent hover:bg-primary-focus hover:shadow-gray-500",
     btnText: "了解更多",
   },
   cvTitleCard: {
-    title: "翠翠 @idealclover",
+    title: "琉·璃昂 @RyuLion",
     desc: "Project Manager @Bytedance\n产品经理/独立开发者/个人博主/Vocaloid",
     url: "https://idealclover.top/about.html",
     bgStyle:
@@ -21,8 +21,8 @@ export default {
   },
   blogCard: {
     title: "博客",
-    desc: "idealclover.top",
-    url: "https://idealclover.top/articles.html",
+    desc: "风-吹人心动",
+    url: "https://blog.houxiongxiong.icu/",
     btnText: "去逛逛",
     bgStyle:
       "bg-[#2C3E50] shadow-[#2C3E50]/75 hover:bg-[#2C3E50]/75 hover:shadow-[#2C3E50]",
@@ -65,7 +65,7 @@ export default {
     },
     {
       title: "Bilibili",
-      url: "https://space.bilibili.com/5044093",
+      url: "https://space.bilibili.com/299421367",
       btnText: "Follow",
       bgStyle:
         "bg-[#FB7299] shadow-[#FB7299]/75 hover:bg-[#FB7299]/75 hover:shadow-[#FB7299]",
@@ -75,7 +75,7 @@ export default {
     },
     {
       title: "GitHub",
-      url: "https://github.com/idealclover",
+      url: "https://github.com/AR-26710",
       btnText: "Follow",
       bgStyle:
         "bg-[#181717] shadow-[#181717]/75 hover:bg-[#181717]/75 hover:shadow-[#181717]",
@@ -255,22 +255,22 @@ export default {
   ],
   teleCards: [
     {
-      title: "Email: idealclover@163.com",
-      url: "mailto:idealclover@163.com",
+      title: "Email: youzi@youzi.icu",
+      url: "mailto:youzi@youzi.icu",
       iconClass: "mail_s",
       iconInfoClass: "mail",
       textStyle: "font-normal",
     },
     {
-      title: "QQ: 1455169173",
-      url: "http://wpa.qq.com/msgrd?v=3&uin=1455169173&site=qq&menu=yes",
+      title: "QQ: 3071655192",
+      url: "http://wpa.qq.com/msgrd?v=3&uin=3071655192&site=qq&menu=yes",
       iconClass: "QQ_s",
       iconInfoClass: "QQ",
       textStyle: "font-normal",
     },
     {
-      title: "Telegram: @idealclover",
-      url: "http://t.me/idealclover",
+      title: "Telegram: @RyuLion",
+      url: "https://t.me/RyuLion",
       iconClass: "telegram_s",
       iconInfoClass: "telegram",
       textStyle: "font-normal",
