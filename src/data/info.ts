@@ -19,8 +19,7 @@ export default {
     title: "琉·璃昂 @RyuLion",
     desc: "精灵族/阿斯特莉亚·眷族/LV.6",
     url: "https://baike.baidu.com/item/%E7%90%89%C2%B7%E7%92%83%E6%98%82/23735822",
-    bgStyle:
-      "bg-primary shadow-accent hover:bg-primary-focus hover:shadow-gray-500",
+    bgStyle: "bg-[url('https://blog.houxiongxiong.icu/upload/config/bg-ryulion.jpg')] bg-cover bg-center shadow-accent hover:bg-primary-focus hover:shadow-gray-500",
     btnText: "了解更多",
   },
   cvTitleCard: {
@@ -36,9 +35,7 @@ export default {
     desc: "风-吹人心动",
     url: "https://blog.houxiongxiong.icu/",
     btnText: "去逛逛",
-    bgStyle:
-      "bg-[#2C3E50] shadow-[#2C3E50]/75 hover:bg-[#2C3E50]/75 hover:shadow-[#2C3E50]",
-    textStyle: "text-white",
+    bgStyle: "bg-[url('https://blog.houxiongxiong.icu/upload/config/bg2-ryulion.jpg')] bg-cover bg-center shadow-accent hover:bg-primary-focus hover:shadow-gray-500",
     btnStyle: "bg-[#162D3B]",
     btnTextStyle: "text-white",
   },
