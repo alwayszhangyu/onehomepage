@@ -1,0 +1,38 @@
+name: Fetch Posts
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'  # 每周一零点执行
+  workflow_dispatch:      # 允许手动触发
+
+jobs:
+  fetch-and-update:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT_TOKEN }}  # 使用 PAT 进行检出
+        
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          
+      - name: Install dependencies
+        run: npm install
+        
+      - name: Run fetch script
+        run: node src/data/getPost.js
+        env:
+          BASE_URL: ${{ secrets.BASE_URL }}
+          API_TOKEN: ${{ secrets.API_TOKEN }}
+          MAX_ARTICLES_PER_CATEGORY: ${{ secrets.MAX_ARTICLES_PER_CATEGORY }}
+          
+      - name: Commit and push if changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add src/data/articles_list.ts
+          git diff --quiet && git diff --staged --quiet || (git commit -m "自动更新文章列表" && git push)
