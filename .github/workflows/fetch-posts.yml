@@ -21,10 +21,12 @@ jobs:
           node-version: '18'
           
       - name: Install dependencies
-        run: npm install
-        
+        run: |
+          npm install axios
+          npm install dotenv
+          
       - name: Run fetch script
-        run: node src/data/getPost.js  # 更新了脚本路径
+        run: node src/data/getPost.js
         env:
           BASE_URL: ${{ secrets.BASE_URL }}
           API_TOKEN: ${{ secrets.API_TOKEN }}
