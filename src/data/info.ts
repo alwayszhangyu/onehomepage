@@ -271,8 +271,8 @@ export default {
       textStyle: "font-normal",
     },
     {
-      title: "QQ: 3071655192",
-      url: "http://wpa.qq.com/msgrd?v=3&uin=3071655192&site=qq&menu=yes",
+      title: "QQ: none",
+      url: "http://wpa.qq.com/msgrd?v=3&uin=none&site=qq&menu=yes",
       iconClass: "QQ_s",
       iconInfoClass: "QQ",
       textStyle: "font-normal",
@@ -285,8 +285,8 @@ export default {
       textStyle: "font-normal",
     },
     {
-      title: "Twitter: @idealclover",
-      url: "https://twitter.com/idealclover",
+      title: "Twitter: none",
+      url: "https://twitter.com/none",
       iconClass: "twitter_s",
       iconInfoClass: "twitter",
       textStyle: "font-normal",
