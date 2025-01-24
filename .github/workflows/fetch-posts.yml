@@ -10,21 +10,23 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
+      # 检出代码仓库
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.PAT_TOKEN }}
         
+      # 设置 Node.js 环境
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '18'
           
+      # 安装项目依赖（包括从 package.json 中安装的所有依赖）
       - name: Install dependencies
-        run: |
-          npm install axios
-          npm install dotenv
+        run: npm install
           
+      # 执行脚本以获取文章数据
       - name: Run fetch script
         run: node src/data/getPost.js
         env:
@@ -32,6 +34,7 @@ jobs:
           API_TOKEN: ${{ secrets.API_TOKEN }}
           MAX_ARTICLES_PER_CATEGORY: ${{ secrets.MAX_ARTICLES_PER_CATEGORY }}
           
+      # 检查是否有变更，并在有变更时提交
       - name: Commit and push if changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
