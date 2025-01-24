@@ -1,7 +1,7 @@
 export default {
   title: "RyuLion",
   desc: "Love Little Rookie.",
-  imgUrl: "https://cdn.idealclover.cn/Projects/homepage/icon.png",
+  imgUrl: "https://blog.houxiongxiong.icu/upload/avatar/ryulion.jpg",
   location: "BiJie, Guizhou, China",
   titleCard: {
     title: "琉·璃昂 @RyuLion",
