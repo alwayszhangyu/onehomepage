@@ -1,4 +1,16 @@
 export default {
+  // 控制显示的配置
+  showTitleCard: true,
+  showBlogCard: true,
+  showSecondaryCards: false,
+  showPrimaryCards1: false,
+  showPrimaryCards2: false,
+  showMap: true,
+  showArticles: true,
+  showProjects: false,
+  showMusic: false,
+  showContact: true,
+
   title: "RyuLion",
   desc: "Love Little Rookie.",
   imgUrl: "https://blog.houxiongxiong.icu/upload/avatar/ryulion.jpg",

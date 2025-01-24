@@ -49,18 +49,26 @@ import info from "../data/info";
           <Card_4x2 info={info.blogCard} />
         </div>
 
-        <div class="hidden md:block col-span-4 md:col-span-2 md:col-start-3">
-          {info.secondaryCards.map((card) => <Card_2x1 info={card} />)}
-        </div>
-        <div class="col-span-2 md:col-span-1">
-          <Card_2x2 info={info.primaryCards[0]} />
-          <Card_2x2 info={info.primaryCards[1]} />
-        </div>
-        <div class="col-span-2 md:col-span-1">
-          <Card_2x2 info={info.primaryCards[2]} />
-          <Card_2x2 info={info.primaryCards[3]} />
-        </div>
+        <!--社交网络1-->
+        {info.showPrimaryCards1 && (
+            <div class="hidden md:block col-span-4 md:col-span-2 md:col-start-3">
+              {info.secondaryCards.map((card) => <Card_2x1 info={card} />)}
+            </div>
+        )}
+        <!--社交网络2-->
+        {info.showPrimaryCards2 && (
+            <div class="col-span-2 md:col-span-1">
+              <Card_2x2 info={info.primaryCards[0]} />
+              <Card_2x2 info={info.primaryCards[1]} />
+            </div>
+            <div class="col-span-2 md:col-span-1">
+              <Card_2x2 info={info.primaryCards[2]} />
+              <Card_2x2 info={info.primaryCards[3]} />
+            </div>
+        )}
 
+        <!--地图-->
+        {info.showMap && (
         <div
           style="display: none"
           class="map col-span-4 md:col-span-2 w-full lg:w-[26rem] lg:h-[26rem] relative md:aspect-[1/1]"
@@ -76,53 +84,63 @@ import info from "../data/info";
             {info.location}
           </div>
         </div>
+        )}
 
         <!-- 文章列表 -->
+        {info.showArticles && (
         <div class="col-span-4">
           <Card_8x1 info={info.sectionTitles[0]} />
           <Articles_List></Articles_List>
         </div>
+        )}
 
         <!-- 个人项目 -->
-        <div class="col-span-4">
-          <Card_8x1 info={info.sectionTitles[1]} />
-        </div>
-        <div class="col-span-4 md:col-span-2">
-          <Card_4x2 info={info.projectCardStart} />
-        </div>
-        {
-          info.projectCards.map((card) => (
-            <div class="col-span-2 md:col-span-1">
-              <Card_2x2 info={card} />
-            </div>
-          ))
-        }
-        <div class="col-span-4 md:col-span-2">
-          <Card_4x2 info={info.projectCardEnd} />
-        </div>
+        {info.showProjects && (
+            <>
+              <div class="col-span-4">
+                <Card_8x1 info={info.sectionTitles[1]} />
+              </div>
+              <div class="col-span-4 md:col-span-2">
+                <Card_4x2 info={info.projectCardStart} />
+              </div>
+              {info.projectCards.map((card) => (
+                  <div class="col-span-2 md:col-span-1">
+                    <Card_2x2 info={card} />
+                  </div>
+              ))}
+              <div class="col-span-4 md:col-span-2">
+                <Card_4x2 info={info.projectCardEnd} />
+              </div>
+            </>
+        )}
 
         <!-- 音乐创作 -->
-        <div class="col-span-4">
-          <Card_8x1 info={info.sectionTitles[2]} />
-        </div>
-        {
-          info.musicCards.map((card) => (
-            <div class="col-span-4 md:col-span-2">
-              <Card_4x2 info={card} />
-            </div>
-          ))
-        }
+        {info.showMusic && (
+            <>
+              <div class="col-span-4">
+                <Card_8x1 info={info.sectionTitles[2]} />
+              </div>
+              {info.musicCards.map((card) => (
+                  <div class="col-span-4 md:col-span-2">
+                    <Card_4x2 info={card} />
+                  </div>
+              ))}
+            </>
+        )}
+
         <!-- 联系方式 -->
-        <div class="col-span-4">
-          <Card_8x1 info={info.sectionTitles[3]} />
-        </div>
-        {
-          info.teleCards.map((card) => (
-            <div class="col-span-4 md:col-span-2">
-              <Card_2x1 info={card} />
-            </div>
-          ))
-        }
+        {info.showContact && (
+            <>
+              <div class="col-span-4">
+                <Card_8x1 info={info.sectionTitles[3]} />
+              </div>
+              {info.teleCards.map((card) => (
+                  <div class="col-span-4 md:col-span-2">
+                    <Card_2x1 info={card} />
+                  </div>
+              ))}
+            </>
+        )}
       </div>
       <div class="pt-16"></div>
       <footer class="text-center">
