@@ -4,36 +4,15 @@ export default [
     "url": "https://blog.houxiongxiong.icu/archives",
     "articles": [
       {
-        "title": "个人首页",
-        "url": "https://blog.houxiongxiong.icu/archives/mDTQCbMo",
-        "time": "2025/01/24"
+        "title": "AI润色拓文",
+        "url": "https://blog.houxiongxiong.icu/archives/Zy5k9sBs",
+        "time": "2025/01/26"
       },
       {
-        "title": "哔哩哔哩视频嵌入",
-        "url": "https://blog.houxiongxiong.icu/archives/2v0qOMdc",
-        "time": "2025/01/22"
+        "title": "关灯",
+        "url": "https://blog.houxiongxiong.icu/archives/l6ZXIRmU",
+        "time": "2025/01/25"
       },
-      {
-        "title": "GitHub啊！！！",
-        "url": "https://blog.houxiongxiong.icu/archives/mVOf3ClE",
-        "time": "2025/01/16"
-      },
-      {
-        "title": "用888的我中奖了！",
-        "url": "https://blog.houxiongxiong.icu/archives/4q1tZzD2",
-        "time": "2025/01/12"
-      },
-      {
-        "title": "真假谷歌浏览器",
-        "url": "https://blog.houxiongxiong.icu/archives/Ch8YKres",
-        "time": "2024/12/16"
-      }
-    ]
-  },
-  {
-    "title": "记录",
-    "url": "https://blog.houxiongxiong.icu/categories/record",
-    "articles": [
       {
         "title": "个人首页",
         "url": "https://blog.houxiongxiong.icu/archives/mDTQCbMo",
@@ -48,16 +27,6 @@ export default [
         "title": "GitHub啊！！！",
         "url": "https://blog.houxiongxiong.icu/archives/mVOf3ClE",
         "time": "2025/01/16"
-      },
-      {
-        "title": "用888的我中奖了！",
-        "url": "https://blog.houxiongxiong.icu/archives/4q1tZzD2",
-        "time": "2025/01/12"
-      },
-      {
-        "title": "真假谷歌浏览器",
-        "url": "https://blog.houxiongxiong.icu/archives/Ch8YKres",
-        "time": "2024/12/16"
       }
     ]
   },
@@ -65,6 +34,11 @@ export default [
     "title": "测试",
     "url": "https://blog.houxiongxiong.icu/categories/test",
     "articles": [
+      {
+        "title": "AI润色拓文",
+        "url": "https://blog.houxiongxiong.icu/archives/Zy5k9sBs",
+        "time": "2025/01/26"
+      },
       {
         "title": "表单测试",
         "url": "https://blog.houxiongxiong.icu/archives/zcudT4Aa",
@@ -79,6 +53,37 @@ export default [
         "title": "KaTeX基础语法",
         "url": "https://blog.houxiongxiong.icu/archives/eDiSR8C5",
         "time": "2024/08/29"
+      }
+    ]
+  },
+  {
+    "title": "记录",
+    "url": "https://blog.houxiongxiong.icu/categories/record",
+    "articles": [
+      {
+        "title": "关灯",
+        "url": "https://blog.houxiongxiong.icu/archives/l6ZXIRmU",
+        "time": "2025/01/25"
+      },
+      {
+        "title": "个人首页",
+        "url": "https://blog.houxiongxiong.icu/archives/mDTQCbMo",
+        "time": "2025/01/24"
+      },
+      {
+        "title": "哔哩哔哩视频嵌入",
+        "url": "https://blog.houxiongxiong.icu/archives/2v0qOMdc",
+        "time": "2025/01/22"
+      },
+      {
+        "title": "GitHub啊！！！",
+        "url": "https://blog.houxiongxiong.icu/archives/mVOf3ClE",
+        "time": "2025/01/16"
+      },
+      {
+        "title": "用888的我中奖了！",
+        "url": "https://blog.houxiongxiong.icu/archives/4q1tZzD2",
+        "time": "2025/01/12"
       }
     ]
   },
