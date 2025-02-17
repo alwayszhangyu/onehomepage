@@ -4,6 +4,11 @@ export default [
     "url": "https://blog.houxiongxiong.icu/archives",
     "articles": [
       {
+        "title": "《魔法少女小圆剧场版 [前篇] 起始的物语》",
+        "url": "https://blog.houxiongxiong.icu/archives/HQagWR7R",
+        "time": "2025/02/11"
+      },
+      {
         "title": "AI润色拓文",
         "url": "https://blog.houxiongxiong.icu/archives/Zy5k9sBs",
         "time": "2025/01/26"
@@ -22,11 +27,27 @@ export default [
         "title": "哔哩哔哩视频嵌入",
         "url": "https://blog.houxiongxiong.icu/archives/2v0qOMdc",
         "time": "2025/01/22"
+      }
+    ]
+  },
+  {
+    "title": "总结",
+    "url": "https://blog.houxiongxiong.icu/categories/summarize",
+    "articles": [
+      {
+        "title": "《魔法少女小圆剧场版 [前篇] 起始的物语》",
+        "url": "https://blog.houxiongxiong.icu/archives/HQagWR7R",
+        "time": "2025/02/11"
       },
       {
-        "title": "GitHub啊！！！",
-        "url": "https://blog.houxiongxiong.icu/archives/mVOf3ClE",
-        "time": "2025/01/16"
+        "title": "DCDN宕机修复",
+        "url": "https://blog.houxiongxiong.icu/archives/Zw9Aidk5",
+        "time": "2024/08/03"
+      },
+      {
+        "title": "销户经历",
+        "url": "https://blog.houxiongxiong.icu/archives/9GmEYZJ3",
+        "time": "2024/05/14"
       }
     ]
   },
@@ -146,22 +167,6 @@ export default [
         "title": "纯白交响曲",
         "url": "https://blog.houxiongxiong.icu/archives/yGrKOVUI",
         "time": "2024/04/18"
-      }
-    ]
-  },
-  {
-    "title": "总结",
-    "url": "https://blog.houxiongxiong.icu/categories/summarize",
-    "articles": [
-      {
-        "title": "DCDN宕机修复",
-        "url": "https://blog.houxiongxiong.icu/archives/Zw9Aidk5",
-        "time": "2024/08/03"
-      },
-      {
-        "title": "销户经历",
-        "url": "https://blog.houxiongxiong.icu/archives/9GmEYZJ3",
-        "time": "2024/05/14"
       }
     ]
   },
