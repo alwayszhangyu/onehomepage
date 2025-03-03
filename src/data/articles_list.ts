@@ -4,6 +4,11 @@ export default [
     "url": "https://blog.houxiongxiong.icu/archives",
     "articles": [
       {
+        "title": "放过自己",
+        "url": "https://blog.houxiongxiong.icu/archives/FYrpIywU",
+        "time": "2025/02/28"
+      },
+      {
         "title": "《魔法少女小圆剧场版 [前篇] 起始的物语》",
         "url": "https://blog.houxiongxiong.icu/archives/HQagWR7R",
         "time": "2025/02/11"
@@ -22,11 +27,37 @@ export default [
         "title": "个人首页",
         "url": "https://blog.houxiongxiong.icu/archives/mDTQCbMo",
         "time": "2025/01/24"
+      }
+    ]
+  },
+  {
+    "title": "记录",
+    "url": "https://blog.houxiongxiong.icu/categories/record",
+    "articles": [
+      {
+        "title": "放过自己",
+        "url": "https://blog.houxiongxiong.icu/archives/FYrpIywU",
+        "time": "2025/02/28"
+      },
+      {
+        "title": "关灯",
+        "url": "https://blog.houxiongxiong.icu/archives/l6ZXIRmU",
+        "time": "2025/01/25"
+      },
+      {
+        "title": "个人首页",
+        "url": "https://blog.houxiongxiong.icu/archives/mDTQCbMo",
+        "time": "2025/01/24"
       },
       {
         "title": "哔哩哔哩视频嵌入",
         "url": "https://blog.houxiongxiong.icu/archives/2v0qOMdc",
         "time": "2025/01/22"
+      },
+      {
+        "title": "GitHub啊！！！",
+        "url": "https://blog.houxiongxiong.icu/archives/mVOf3ClE",
+        "time": "2025/01/16"
       }
     ]
   },
@@ -74,37 +105,6 @@ export default [
         "title": "KaTeX基础语法",
         "url": "https://blog.houxiongxiong.icu/archives/eDiSR8C5",
         "time": "2024/08/29"
-      }
-    ]
-  },
-  {
-    "title": "记录",
-    "url": "https://blog.houxiongxiong.icu/categories/record",
-    "articles": [
-      {
-        "title": "关灯",
-        "url": "https://blog.houxiongxiong.icu/archives/l6ZXIRmU",
-        "time": "2025/01/25"
-      },
-      {
-        "title": "个人首页",
-        "url": "https://blog.houxiongxiong.icu/archives/mDTQCbMo",
-        "time": "2025/01/24"
-      },
-      {
-        "title": "哔哩哔哩视频嵌入",
-        "url": "https://blog.houxiongxiong.icu/archives/2v0qOMdc",
-        "time": "2025/01/22"
-      },
-      {
-        "title": "GitHub啊！！！",
-        "url": "https://blog.houxiongxiong.icu/archives/mVOf3ClE",
-        "time": "2025/01/16"
-      },
-      {
-        "title": "用888的我中奖了！",
-        "url": "https://blog.houxiongxiong.icu/archives/4q1tZzD2",
-        "time": "2025/01/12"
       }
     ]
   },
