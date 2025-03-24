@@ -195,8 +195,8 @@ export default [
         "time": "2024/07/17"
       },
       {
-        "title": "苏联史笔记通",
-        "url": "https://blog.houxiongxiong.icu/archives/TZG6LzA7",
+        "title": "A Selfish Lycoris Book",
+        "url": "https://blog.houxiongxiong.icu/archives/6ci1Q2LJ",
         "time": "2024/07/17"
       }
     ]
