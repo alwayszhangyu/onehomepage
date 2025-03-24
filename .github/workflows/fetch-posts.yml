@@ -40,4 +40,10 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add src/data/articles_list.ts
-          git diff --quiet && git diff --staged --quiet || (git commit -m "自动更新文章列表" && git push)
+          # 仅当暂存区有变更时才提交
+          if ! git diff --cached --quiet; then
+            git commit -m "自动更新文章列表"
+            git push
+          else
+            echo "没有检测到文章列表的变更，无需提交。"
+          fi
