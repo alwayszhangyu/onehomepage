@@ -4,6 +4,11 @@ export default [
     "url": "https://blog.houxiongxiong.icu/archives",
     "articles": [
       {
+        "title": "Fumadocs i18n教程",
+        "url": "https://blog.houxiongxiong.icu/archives/LMZJpEnA",
+        "time": "2025/05/12"
+      },
+      {
         "title": "记录一次主力机售后",
         "url": "https://blog.houxiongxiong.icu/archives/SEIqSxAC",
         "time": "2025/04/26"
@@ -22,11 +27,6 @@ export default [
         "title": "自定义组件",
         "url": "https://blog.houxiongxiong.icu/archives/odqk3huD",
         "time": "2025/04/01"
-      },
-      {
-        "title": "图片分类",
-        "url": "https://blog.houxiongxiong.icu/archives/Fcwseu0u",
-        "time": "2025/03/30"
       }
     ]
   },
@@ -35,6 +35,11 @@ export default [
     "url": "https://blog.houxiongxiong.icu/categories/record",
     "articles": [
       {
+        "title": "Fumadocs i18n教程",
+        "url": "https://blog.houxiongxiong.icu/archives/LMZJpEnA",
+        "time": "2025/05/12"
+      },
+      {
         "title": "记录一次主力机售后",
         "url": "https://blog.houxiongxiong.icu/archives/SEIqSxAC",
         "time": "2025/04/26"
@@ -53,11 +58,6 @@ export default [
         "title": "自定义组件",
         "url": "https://blog.houxiongxiong.icu/archives/odqk3huD",
         "time": "2025/04/01"
-      },
-      {
-        "title": "图片分类",
-        "url": "https://blog.houxiongxiong.icu/archives/Fcwseu0u",
-        "time": "2025/03/30"
       }
     ]
   },
