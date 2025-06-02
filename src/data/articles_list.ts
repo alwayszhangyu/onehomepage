@@ -4,6 +4,16 @@ export default [
     "url": "https://blog.houxiongxiong.icu/archives",
     "articles": [
       {
+        "title": "投稿者测试",
+        "url": "https://blog.houxiongxiong.icu/archives/IjPIh1zh",
+        "time": "2025/05/29"
+      },
+      {
+        "title": "《Re:从零开始的异世界生活》：在死亡轮回中探寻人性的光芒",
+        "url": "https://blog.houxiongxiong.icu/archives/suMHl7u5",
+        "time": "2025/05/29"
+      },
+      {
         "title": "重置密码流程",
         "url": "https://blog.houxiongxiong.icu/archives/N4Lclz0k",
         "time": "2025/05/25"
@@ -17,16 +27,37 @@ export default [
         "title": "十多年前的时光",
         "url": "https://blog.houxiongxiong.icu/archives/CvSmoIgR",
         "time": "2025/05/19"
+      }
+    ]
+  },
+  {
+    "title": "测试",
+    "url": "https://blog.houxiongxiong.icu/categories/test",
+    "articles": [
+      {
+        "title": "投稿者测试",
+        "url": "https://blog.houxiongxiong.icu/archives/IjPIh1zh",
+        "time": "2025/05/29"
       },
       {
-        "title": "Fumadocs i18n教程",
-        "url": "https://blog.houxiongxiong.icu/archives/LMZJpEnA",
-        "time": "2025/05/12"
+        "title": "AI润色拓文",
+        "url": "https://blog.houxiongxiong.icu/archives/Zy5k9sBs",
+        "time": "2025/01/26"
       },
       {
-        "title": "记录一次主力机售后",
-        "url": "https://blog.houxiongxiong.icu/archives/SEIqSxAC",
-        "time": "2025/04/26"
+        "title": "表单测试",
+        "url": "https://blog.houxiongxiong.icu/archives/zcudT4Aa",
+        "time": "2024/11/05"
+      },
+      {
+        "title": "2024高考数学新课标II卷",
+        "url": "https://blog.houxiongxiong.icu/archives/oX8OK0ry",
+        "time": "2024/08/29"
+      },
+      {
+        "title": "KaTeX基础语法",
+        "url": "https://blog.houxiongxiong.icu/archives/eDiSR8C5",
+        "time": "2024/08/29"
       }
     ]
   },
@@ -35,6 +66,11 @@ export default [
     "url": "https://blog.houxiongxiong.icu/categories/record",
     "articles": [
       {
+        "title": "《Re:从零开始的异世界生活》：在死亡轮回中探寻人性的光芒",
+        "url": "https://blog.houxiongxiong.icu/archives/suMHl7u5",
+        "time": "2025/05/29"
+      },
+      {
         "title": "重置密码流程",
         "url": "https://blog.houxiongxiong.icu/archives/N4Lclz0k",
         "time": "2025/05/25"
@@ -53,11 +89,6 @@ export default [
         "title": "Fumadocs i18n教程",
         "url": "https://blog.houxiongxiong.icu/archives/LMZJpEnA",
         "time": "2025/05/12"
-      },
-      {
-        "title": "记录一次主力机售后",
-        "url": "https://blog.houxiongxiong.icu/archives/SEIqSxAC",
-        "time": "2025/04/26"
       }
     ]
   },
@@ -110,32 +141,6 @@ export default [
         "title": "销户经历",
         "url": "https://blog.houxiongxiong.icu/archives/9GmEYZJ3",
         "time": "2024/05/14"
-      }
-    ]
-  },
-  {
-    "title": "测试",
-    "url": "https://blog.houxiongxiong.icu/categories/test",
-    "articles": [
-      {
-        "title": "AI润色拓文",
-        "url": "https://blog.houxiongxiong.icu/archives/Zy5k9sBs",
-        "time": "2025/01/26"
-      },
-      {
-        "title": "表单测试",
-        "url": "https://blog.houxiongxiong.icu/archives/zcudT4Aa",
-        "time": "2024/11/05"
-      },
-      {
-        "title": "2024高考数学新课标II卷",
-        "url": "https://blog.houxiongxiong.icu/archives/oX8OK0ry",
-        "time": "2024/08/29"
-      },
-      {
-        "title": "KaTeX基础语法",
-        "url": "https://blog.houxiongxiong.icu/archives/eDiSR8C5",
-        "time": "2024/08/29"
       }
     ]
   },
