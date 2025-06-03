@@ -264,8 +264,8 @@ export default {
   ],
   teleCards: [
     {
-      title: "Email: youzi@youzi.icu",
-      url: "mailto:youzi@youzi.icu",
+      title: "Email: Eden1031@qq.com",
+      url: "mailto:Eden1031@qq.com",
       iconClass: "mail_s",
       iconInfoClass: "mail",
       textStyle: "font-normal",
