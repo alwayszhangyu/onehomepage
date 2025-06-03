@@ -32,7 +32,7 @@ export default {
   },
   blogCard: {
     title: "博客",
-    desc: "风-吹人心动",
+    desc: "KITA-归去来兮",
     url: "https://blog.houxiongxiong.icu/",
     btnText: "去逛逛",
     bgStyle: "bg-[url('https://blog.houxiongxiong.icu/upload/config/bg2-ryulion.jpg')] bg-cover bg-center shadow-accent hover:bg-primary-focus hover:shadow-gray-500",
