@@ -4,9 +4,45 @@ export default [
     "url": "https://blog.houxiongxiong.icu/archives",
     "articles": [
       {
+        "title": "MySQL 存储引擎查看与切换教程",
+        "url": "https://blog.houxiongxiong.icu/archives/3uc6CKDZ",
+        "time": "2025/06/15"
+      },
+      {
+        "title": "凌霞服务404了！！！",
+        "url": "https://blog.houxiongxiong.icu/archives/PT5BTPur",
+        "time": "2025/06/12"
+      },
+      {
         "title": "投稿者测试",
         "url": "https://blog.houxiongxiong.icu/archives/IjPIh1zh",
         "time": "2025/05/29"
+      },
+      {
+        "title": "《Re:从零开始的异世界生活》：在死亡轮回中探寻人性的光芒",
+        "url": "https://blog.houxiongxiong.icu/archives/suMHl7u5",
+        "time": "2025/05/29"
+      },
+      {
+        "title": "重置密码流程",
+        "url": "https://blog.houxiongxiong.icu/archives/N4Lclz0k",
+        "time": "2025/05/25"
+      }
+    ]
+  },
+  {
+    "title": "记录",
+    "url": "https://blog.houxiongxiong.icu/categories/record",
+    "articles": [
+      {
+        "title": "MySQL 存储引擎查看与切换教程",
+        "url": "https://blog.houxiongxiong.icu/archives/3uc6CKDZ",
+        "time": "2025/06/15"
+      },
+      {
+        "title": "凌霞服务404了！！！",
+        "url": "https://blog.houxiongxiong.icu/archives/PT5BTPur",
+        "time": "2025/06/12"
       },
       {
         "title": "《Re:从零开始的异世界生活》：在死亡轮回中探寻人性的光芒",
@@ -22,11 +58,6 @@ export default [
         "title": "JS IIFE 立即调用函数表达式",
         "url": "https://blog.houxiongxiong.icu/archives/UwTJKRhe",
         "time": "2025/05/24"
-      },
-      {
-        "title": "十多年前的时光",
-        "url": "https://blog.houxiongxiong.icu/archives/CvSmoIgR",
-        "time": "2025/05/19"
       }
     ]
   },
@@ -58,37 +89,6 @@ export default [
         "title": "KaTeX基础语法",
         "url": "https://blog.houxiongxiong.icu/archives/eDiSR8C5",
         "time": "2024/08/29"
-      }
-    ]
-  },
-  {
-    "title": "记录",
-    "url": "https://blog.houxiongxiong.icu/categories/record",
-    "articles": [
-      {
-        "title": "《Re:从零开始的异世界生活》：在死亡轮回中探寻人性的光芒",
-        "url": "https://blog.houxiongxiong.icu/archives/suMHl7u5",
-        "time": "2025/05/29"
-      },
-      {
-        "title": "重置密码流程",
-        "url": "https://blog.houxiongxiong.icu/archives/N4Lclz0k",
-        "time": "2025/05/25"
-      },
-      {
-        "title": "JS IIFE 立即调用函数表达式",
-        "url": "https://blog.houxiongxiong.icu/archives/UwTJKRhe",
-        "time": "2025/05/24"
-      },
-      {
-        "title": "十多年前的时光",
-        "url": "https://blog.houxiongxiong.icu/archives/CvSmoIgR",
-        "time": "2025/05/19"
-      },
-      {
-        "title": "Fumadocs i18n教程",
-        "url": "https://blog.houxiongxiong.icu/archives/LMZJpEnA",
-        "time": "2025/05/12"
       }
     ]
   },
