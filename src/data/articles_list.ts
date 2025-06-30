@@ -4,6 +4,11 @@ export default [
     "url": "https://blog.houxiongxiong.icu/archives",
     "articles": [
       {
+        "title": "Halo主题开发一键添加ID与KEY",
+        "url": "https://blog.houxiongxiong.icu/archives/b2sFC8Vy",
+        "time": "2025/06/27"
+      },
+      {
         "title": "MySQL 存储引擎查看与切换教程",
         "url": "https://blog.houxiongxiong.icu/archives/3uc6CKDZ",
         "time": "2025/06/15"
@@ -22,11 +27,6 @@ export default [
         "title": "《Re:从零开始的异世界生活》：在死亡轮回中探寻人性的光芒",
         "url": "https://blog.houxiongxiong.icu/archives/suMHl7u5",
         "time": "2025/05/29"
-      },
-      {
-        "title": "重置密码流程",
-        "url": "https://blog.houxiongxiong.icu/archives/N4Lclz0k",
-        "time": "2025/05/25"
       }
     ]
   },
@@ -34,6 +34,11 @@ export default [
     "title": "记录",
     "url": "https://blog.houxiongxiong.icu/categories/record",
     "articles": [
+      {
+        "title": "Halo主题开发一键添加ID与KEY",
+        "url": "https://blog.houxiongxiong.icu/archives/b2sFC8Vy",
+        "time": "2025/06/27"
+      },
       {
         "title": "MySQL 存储引擎查看与切换教程",
         "url": "https://blog.houxiongxiong.icu/archives/3uc6CKDZ",
@@ -53,11 +58,6 @@ export default [
         "title": "重置密码流程",
         "url": "https://blog.houxiongxiong.icu/archives/N4Lclz0k",
         "time": "2025/05/25"
-      },
-      {
-        "title": "JS IIFE 立即调用函数表达式",
-        "url": "https://blog.houxiongxiong.icu/archives/UwTJKRhe",
-        "time": "2025/05/24"
       }
     ]
   },
