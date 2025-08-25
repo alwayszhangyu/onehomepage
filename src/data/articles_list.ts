@@ -4,6 +4,11 @@ export default [
     "url": "https://blog.houxiongxiong.icu/archives",
     "articles": [
       {
+        "title": "命名时使用 “-” 还是 “_” 更好？",
+        "url": "https://blog.houxiongxiong.icu/archives/MBwIWIxf",
+        "time": "2025/08/20"
+      },
+      {
         "title": "1Panel自动推送SSL证书至阿里云",
         "url": "https://blog.houxiongxiong.icu/archives/6x7eKaez",
         "time": "2025/08/17"
@@ -22,11 +27,6 @@ export default [
         "title": "跨域问题",
         "url": "https://blog.houxiongxiong.icu/archives/1KWtGRZ8",
         "time": "2025/07/22"
-      },
-      {
-        "title": "H1-H6标签正确使用指南：结构逻辑与优化技巧",
-        "url": "https://blog.houxiongxiong.icu/archives/anbfjRwL",
-        "time": "2025/07/15"
       }
     ]
   },
@@ -34,6 +34,11 @@ export default [
     "title": "记录",
     "url": "https://blog.houxiongxiong.icu/categories/record",
     "articles": [
+      {
+        "title": "命名时使用 “-” 还是 “_” 更好？",
+        "url": "https://blog.houxiongxiong.icu/archives/MBwIWIxf",
+        "time": "2025/08/20"
+      },
       {
         "title": "1Panel自动推送SSL证书至阿里云",
         "url": "https://blog.houxiongxiong.icu/archives/6x7eKaez",
@@ -52,11 +57,6 @@ export default [
       {
         "title": "H1-H6标签正确使用指南：结构逻辑与优化技巧",
         "url": "https://blog.houxiongxiong.icu/archives/anbfjRwL",
-        "time": "2025/07/15"
-      },
-      {
-        "title": "H1 至 H6 标签的使用",
-        "url": "https://blog.houxiongxiong.icu/archives/InJpkhin",
         "time": "2025/07/15"
       }
     ]
