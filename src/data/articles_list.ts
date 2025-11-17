@@ -4,6 +4,11 @@ export default [
     "url": "https://blog.houxiongxiong.icu/archives",
     "articles": [
       {
+        "title": "使用 1Paenl 部署 lobechat DB 版",
+        "url": "https://blog.houxiongxiong.icu/archives/UoJYHi64",
+        "time": "2025/11/14"
+      },
+      {
         "title": "PostgreSQL Alpine 版本安装 pgvector 扩展",
         "url": "https://blog.houxiongxiong.icu/archives/P2qiBWxI",
         "time": "2025/10/22"
@@ -22,11 +27,6 @@ export default [
         "title": "命名时使用 “-” 还是 “_” 更好？",
         "url": "https://blog.houxiongxiong.icu/archives/MBwIWIxf",
         "time": "2025/08/20"
-      },
-      {
-        "title": "1Panel自动推送SSL证书至阿里云",
-        "url": "https://blog.houxiongxiong.icu/archives/6x7eKaez",
-        "time": "2025/08/17"
       }
     ]
   },
@@ -34,6 +34,11 @@ export default [
     "title": "记录",
     "url": "https://blog.houxiongxiong.icu/categories/record",
     "articles": [
+      {
+        "title": "使用 1Paenl 部署 lobechat DB 版",
+        "url": "https://blog.houxiongxiong.icu/archives/UoJYHi64",
+        "time": "2025/11/14"
+      },
       {
         "title": "PostgreSQL Alpine 版本安装 pgvector 扩展",
         "url": "https://blog.houxiongxiong.icu/archives/P2qiBWxI",
@@ -53,11 +58,6 @@ export default [
         "title": "1Panel自动推送SSL证书至阿里云",
         "url": "https://blog.houxiongxiong.icu/archives/6x7eKaez",
         "time": "2025/08/17"
-      },
-      {
-        "title": "HTML自定义标签-画廊",
-        "url": "https://blog.houxiongxiong.icu/archives/pGZqsUKR",
-        "time": "2025/08/06"
       }
     ]
   },
