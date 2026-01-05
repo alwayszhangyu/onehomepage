@@ -4,6 +4,11 @@ export default [
     "url": "https://blog.houxiongxiong.icu/archives",
     "articles": [
       {
+        "title": "个人主页",
+        "url": "https://blog.houxiongxiong.icu/archives/HEqziADM",
+        "time": "2025/12/31"
+      },
+      {
         "title": "文章阅读限制",
         "url": "https://blog.houxiongxiong.icu/archives/k1TkAOkn",
         "time": "2025/12/27"
@@ -22,11 +27,37 @@ export default [
         "title": "使用 Node.js 自动生成 Markdown 图片插入格式",
         "url": "https://blog.houxiongxiong.icu/archives/9GCxqRHG",
         "time": "2025/09/27"
+      }
+    ]
+  },
+  {
+    "title": "记录",
+    "url": "https://blog.houxiongxiong.icu/categories/record",
+    "articles": [
+      {
+        "title": "个人主页",
+        "url": "https://blog.houxiongxiong.icu/archives/HEqziADM",
+        "time": "2025/12/31"
       },
       {
-        "title": "使用阿里云 OSS SDK 上传文件（Java 版）",
-        "url": "https://blog.houxiongxiong.icu/archives/650GA3IF",
-        "time": "2025/08/28"
+        "title": "使用 1Paenl 部署 lobechat DB 版",
+        "url": "https://blog.houxiongxiong.icu/archives/UoJYHi64",
+        "time": "2025/11/14"
+      },
+      {
+        "title": "PostgreSQL Alpine 版本安装 pgvector 扩展",
+        "url": "https://blog.houxiongxiong.icu/archives/P2qiBWxI",
+        "time": "2025/10/22"
+      },
+      {
+        "title": "使用 Node.js 自动生成 Markdown 图片插入格式",
+        "url": "https://blog.houxiongxiong.icu/archives/9GCxqRHG",
+        "time": "2025/09/27"
+      },
+      {
+        "title": "命名时使用 “-” 还是 “_” 更好？",
+        "url": "https://blog.houxiongxiong.icu/archives/MBwIWIxf",
+        "time": "2025/08/20"
       }
     ]
   },
@@ -58,37 +89,6 @@ export default [
         "title": "表单测试",
         "url": "https://blog.houxiongxiong.icu/archives/zcudT4Aa",
         "time": "2024/11/05"
-      }
-    ]
-  },
-  {
-    "title": "记录",
-    "url": "https://blog.houxiongxiong.icu/categories/record",
-    "articles": [
-      {
-        "title": "使用 1Paenl 部署 lobechat DB 版",
-        "url": "https://blog.houxiongxiong.icu/archives/UoJYHi64",
-        "time": "2025/11/14"
-      },
-      {
-        "title": "PostgreSQL Alpine 版本安装 pgvector 扩展",
-        "url": "https://blog.houxiongxiong.icu/archives/P2qiBWxI",
-        "time": "2025/10/22"
-      },
-      {
-        "title": "使用 Node.js 自动生成 Markdown 图片插入格式",
-        "url": "https://blog.houxiongxiong.icu/archives/9GCxqRHG",
-        "time": "2025/09/27"
-      },
-      {
-        "title": "命名时使用 “-” 还是 “_” 更好？",
-        "url": "https://blog.houxiongxiong.icu/archives/MBwIWIxf",
-        "time": "2025/08/20"
-      },
-      {
-        "title": "1Panel自动推送SSL证书至阿里云",
-        "url": "https://blog.houxiongxiong.icu/archives/6x7eKaez",
-        "time": "2025/08/17"
       }
     ]
   },
