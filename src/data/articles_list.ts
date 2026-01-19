@@ -93,6 +93,22 @@ export default [
     ]
   },
   {
+    "title": "漫画",
+    "url": "https://blog.houxiongxiong.icu/categories/comic",
+    "articles": [
+      {
+        "title": "少女终结的幻想乡",
+        "url": "https://blog.houxiongxiong.icu/archives/nVmLgheT",
+        "time": "2025/08/08"
+      },
+      {
+        "title": "PULCHRE BENE RECTE!",
+        "url": "https://blog.houxiongxiong.icu/archives/kSjopCp2",
+        "time": "2024/07/16"
+      }
+    ]
+  },
+  {
     "title": "总结",
     "url": "https://blog.houxiongxiong.icu/categories/summarize",
     "articles": [
@@ -141,6 +157,22 @@ export default [
         "title": "纯白交响曲",
         "url": "https://blog.houxiongxiong.icu/archives/yGrKOVUI",
         "time": "2024/04/18"
+      }
+    ]
+  },
+  {
+    "title": "COS",
+    "url": "https://blog.houxiongxiong.icu/categories/cosplay",
+    "articles": [
+      {
+        "title": "八重樱和服",
+        "url": "https://blog.houxiongxiong.icu/archives/Gk3YynZo",
+        "time": "2024/07/28"
+      },
+      {
+        "title": "芭芭拉",
+        "url": "https://blog.houxiongxiong.icu/archives/EjQSHj6k",
+        "time": "2024/07/27"
       }
     ]
   },
