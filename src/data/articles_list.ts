@@ -4,9 +4,9 @@ export default [
     "url": "https://blog.houxiongxiong.icu/archives",
     "articles": [
       {
-        "title": "测试",
-        "url": "https://blog.houxiongxiong.icu/archives/4uGroi1J",
-        "time": "2026/02/01"
+        "title": "Shiki 代码行功能",
+        "url": "https://blog.houxiongxiong.icu/archives/QEci827H",
+        "time": "2026/02/07"
       },
       {
         "title": "PWA：让 Web 应用拥有原生 App 体验的关键技术",
@@ -35,11 +35,6 @@ export default [
     "url": "https://blog.houxiongxiong.icu/categories/test",
     "articles": [
       {
-        "title": "测试",
-        "url": "https://blog.houxiongxiong.icu/archives/4uGroi1J",
-        "time": "2026/02/01"
-      },
-      {
         "title": "PWA：让 Web 应用拥有原生 App 体验的关键技术",
         "url": "https://blog.houxiongxiong.icu/archives/9KIepALR",
         "time": "2026/01/10"
@@ -58,6 +53,11 @@ export default [
         "title": "投稿者测试",
         "url": "https://blog.houxiongxiong.icu/archives/IjPIh1zh",
         "time": "2025/05/29"
+      },
+      {
+        "title": "AI润色拓文",
+        "url": "https://blog.houxiongxiong.icu/archives/Zy5k9sBs",
+        "time": "2025/01/26"
       }
     ]
   },
