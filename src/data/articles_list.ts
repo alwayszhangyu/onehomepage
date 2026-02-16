@@ -4,11 +4,6 @@ export default [
     "url": "https://blog.houxiongxiong.icu/archives",
     "articles": [
       {
-        "title": "Shiki 代码行功能",
-        "url": "https://blog.houxiongxiong.icu/archives/QEci827H",
-        "time": "2026/02/07"
-      },
-      {
         "title": "PWA：让 Web 应用拥有原生 App 体验的关键技术",
         "url": "https://blog.houxiongxiong.icu/archives/9KIepALR",
         "time": "2026/01/10"
@@ -27,6 +22,11 @@ export default [
         "title": "甘露寺蜜璃",
         "url": "https://blog.houxiongxiong.icu/archives/T8lyhr5Q",
         "time": "2025/12/14"
+      },
+      {
+        "title": "使用 1Paenl 部署 lobechat DB 版",
+        "url": "https://blog.houxiongxiong.icu/archives/UoJYHi64",
+        "time": "2025/11/14"
       }
     ]
   },
@@ -100,6 +100,11 @@ export default [
         "title": "甘露寺蜜璃",
         "url": "https://blog.houxiongxiong.icu/archives/T8lyhr5Q",
         "time": "2025/12/14"
+      },
+      {
+        "title": "南小鸟",
+        "url": "https://blog.houxiongxiong.icu/archives/5rOQkS55",
+        "time": "2024/08/25"
       },
       {
         "title": "八重樱和服",
