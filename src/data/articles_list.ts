@@ -4,9 +4,19 @@ export default [
     "url": "https://blog.houxiongxiong.icu/archives",
     "articles": [
       {
+        "title": "Git 操作之压缩提交记录",
+        "url": "https://blog.houxiongxiong.icu/archives/qoGAU8z3",
+        "time": "2026/02/26"
+      },
+      {
         "title": "LobeChat V1 版本关闭更新日志弹窗",
         "url": "https://blog.houxiongxiong.icu/archives/Y5GRF5Ls",
         "time": "2026/02/20"
+      },
+      {
+        "title": "Shiki 代码行功能",
+        "url": "https://blog.houxiongxiong.icu/archives/QEci827H",
+        "time": "2026/02/07"
       },
       {
         "title": "PWA：让 Web 应用拥有原生 App 体验的关键技术",
@@ -17,16 +27,6 @@ export default [
         "title": "个人主页",
         "url": "https://blog.houxiongxiong.icu/archives/HEqziADM",
         "time": "2025/12/31"
-      },
-      {
-        "title": "文章阅读限制",
-        "url": "https://blog.houxiongxiong.icu/archives/k1TkAOkn",
-        "time": "2025/12/27"
-      },
-      {
-        "title": "甘露寺蜜璃",
-        "url": "https://blog.houxiongxiong.icu/archives/T8lyhr5Q",
-        "time": "2025/12/14"
       }
     ]
   },
@@ -34,6 +34,11 @@ export default [
     "title": "记录",
     "url": "https://blog.houxiongxiong.icu/categories/record",
     "articles": [
+      {
+        "title": "Git 操作之压缩提交记录",
+        "url": "https://blog.houxiongxiong.icu/archives/qoGAU8z3",
+        "time": "2026/02/26"
+      },
       {
         "title": "LobeChat V1 版本关闭更新日志弹窗",
         "url": "https://blog.houxiongxiong.icu/archives/Y5GRF5Ls",
@@ -53,11 +58,6 @@ export default [
         "title": "PostgreSQL Alpine 版本安装 pgvector 扩展",
         "url": "https://blog.houxiongxiong.icu/archives/P2qiBWxI",
         "time": "2025/10/22"
-      },
-      {
-        "title": "使用 Node.js 自动生成 Markdown 图片插入格式",
-        "url": "https://blog.houxiongxiong.icu/archives/9GCxqRHG",
-        "time": "2025/09/27"
       }
     ]
   },
@@ -65,6 +65,11 @@ export default [
     "title": "测试",
     "url": "https://blog.houxiongxiong.icu/categories/test",
     "articles": [
+      {
+        "title": "Shiki 代码行功能",
+        "url": "https://blog.houxiongxiong.icu/archives/QEci827H",
+        "time": "2026/02/07"
+      },
       {
         "title": "PWA：让 Web 应用拥有原生 App 体验的关键技术",
         "url": "https://blog.houxiongxiong.icu/archives/9KIepALR",
@@ -84,11 +89,6 @@ export default [
         "title": "投稿者测试",
         "url": "https://blog.houxiongxiong.icu/archives/IjPIh1zh",
         "time": "2025/05/29"
-      },
-      {
-        "title": "AI润色拓文",
-        "url": "https://blog.houxiongxiong.icu/archives/Zy5k9sBs",
-        "time": "2025/01/26"
       }
     ]
   },
