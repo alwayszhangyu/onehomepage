@@ -4,6 +4,11 @@ export default [
     "url": "https://blog.houxiongxiong.icu/archives",
     "articles": [
       {
+        "title": "Halo 扩展数据管理工具",
+        "url": "https://blog.houxiongxiong.icu/archives/QFOFKDLR",
+        "time": "2026/03/06"
+      },
+      {
         "title": "Git 操作之压缩提交记录",
         "url": "https://blog.houxiongxiong.icu/archives/qoGAU8z3",
         "time": "2026/02/26"
@@ -22,11 +27,6 @@ export default [
         "title": "PWA：让 Web 应用拥有原生 App 体验的关键技术",
         "url": "https://blog.houxiongxiong.icu/archives/9KIepALR",
         "time": "2026/01/10"
-      },
-      {
-        "title": "个人主页",
-        "url": "https://blog.houxiongxiong.icu/archives/HEqziADM",
-        "time": "2025/12/31"
       }
     ]
   },
@@ -34,6 +34,11 @@ export default [
     "title": "记录",
     "url": "https://blog.houxiongxiong.icu/categories/record",
     "articles": [
+      {
+        "title": "Halo 扩展数据管理工具",
+        "url": "https://blog.houxiongxiong.icu/archives/QFOFKDLR",
+        "time": "2026/03/06"
+      },
       {
         "title": "Git 操作之压缩提交记录",
         "url": "https://blog.houxiongxiong.icu/archives/qoGAU8z3",
@@ -53,11 +58,6 @@ export default [
         "title": "使用 1Paenl 部署 lobechat DB 版",
         "url": "https://blog.houxiongxiong.icu/archives/UoJYHi64",
         "time": "2025/11/14"
-      },
-      {
-        "title": "PostgreSQL Alpine 版本安装 pgvector 扩展",
-        "url": "https://blog.houxiongxiong.icu/archives/P2qiBWxI",
-        "time": "2025/10/22"
       }
     ]
   },
