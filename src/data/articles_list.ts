@@ -4,6 +4,11 @@ export default [
     "url": "https://blog.houxiongxiong.icu/archives",
     "articles": [
       {
+        "title": "Halo 附件上传助手",
+        "url": "https://blog.houxiongxiong.icu/archives/dcGsxMcn",
+        "time": "2026/03/31"
+      },
+      {
         "title": "Halo 扩展数据管理工具",
         "url": "https://blog.houxiongxiong.icu/archives/QFOFKDLR",
         "time": "2026/03/06"
@@ -22,11 +27,6 @@ export default [
         "title": "Shiki 代码行功能",
         "url": "https://blog.houxiongxiong.icu/archives/QEci827H",
         "time": "2026/02/07"
-      },
-      {
-        "title": "PWA：让 Web 应用拥有原生 App 体验的关键技术",
-        "url": "https://blog.houxiongxiong.icu/archives/9KIepALR",
-        "time": "2026/01/10"
       }
     ]
   },
@@ -34,6 +34,11 @@ export default [
     "title": "记录",
     "url": "https://blog.houxiongxiong.icu/categories/record",
     "articles": [
+      {
+        "title": "Halo 附件上传助手",
+        "url": "https://blog.houxiongxiong.icu/archives/dcGsxMcn",
+        "time": "2026/03/31"
+      },
       {
         "title": "Halo 扩展数据管理工具",
         "url": "https://blog.houxiongxiong.icu/archives/QFOFKDLR",
@@ -53,11 +58,6 @@ export default [
         "title": "个人主页",
         "url": "https://blog.houxiongxiong.icu/archives/HEqziADM",
         "time": "2025/12/31"
-      },
-      {
-        "title": "使用 1Paenl 部署 lobechat DB 版",
-        "url": "https://blog.houxiongxiong.icu/archives/UoJYHi64",
-        "time": "2025/11/14"
       }
     ]
   },
