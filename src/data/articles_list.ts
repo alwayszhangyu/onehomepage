@@ -4,6 +4,11 @@ export default [
     "url": "https://blog.houxiongxiong.icu/archives",
     "articles": [
       {
+        "title": "谈谈我不喜欢的博客网站",
+        "url": "https://blog.houxiongxiong.icu/archives/NYdpOLBJ",
+        "time": "2026/04/07"
+      },
+      {
         "title": "Halo 附件上传助手",
         "url": "https://blog.houxiongxiong.icu/archives/dcGsxMcn",
         "time": "2026/03/31"
@@ -22,11 +27,6 @@ export default [
         "title": "LobeChat V1 版本关闭更新日志弹窗",
         "url": "https://blog.houxiongxiong.icu/archives/Y5GRF5Ls",
         "time": "2026/02/20"
-      },
-      {
-        "title": "Shiki 代码行功能",
-        "url": "https://blog.houxiongxiong.icu/archives/QEci827H",
-        "time": "2026/02/07"
       }
     ]
   },
@@ -35,6 +35,11 @@ export default [
     "url": "https://blog.houxiongxiong.icu/categories/record",
     "articles": [
       {
+        "title": "谈谈我不喜欢的博客网站",
+        "url": "https://blog.houxiongxiong.icu/archives/NYdpOLBJ",
+        "time": "2026/04/07"
+      },
+      {
         "title": "Halo 附件上传助手",
         "url": "https://blog.houxiongxiong.icu/archives/dcGsxMcn",
         "time": "2026/03/31"
@@ -53,11 +58,6 @@ export default [
         "title": "LobeChat V1 版本关闭更新日志弹窗",
         "url": "https://blog.houxiongxiong.icu/archives/Y5GRF5Ls",
         "time": "2026/02/20"
-      },
-      {
-        "title": "个人主页",
-        "url": "https://blog.houxiongxiong.icu/archives/HEqziADM",
-        "time": "2025/12/31"
       }
     ]
   },
